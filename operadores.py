@@ -18,6 +18,6 @@ print(valor)
 if valor > 3:
     print(f"{valor} é maior que 3")
 elif valor <= 3:
-    print(f"{valor} é maior que 3")
+    print(f"{valor} é menor ou igual que 3")
 else:
     print("Os valores são iguais")

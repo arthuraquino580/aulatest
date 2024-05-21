@@ -12,4 +12,4 @@ while condicao
 contador = 10
 while contador > 0:
        print(contador)
-       contador -= 1,2
+       contador -= 1
